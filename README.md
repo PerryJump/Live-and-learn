@@ -19,6 +19,7 @@ https://en.wikipedia.org/wiki/Separation_of_concerns
 
 
 //Onece and Only Once
+
   The principle of "once and only once" originated in the world of programming, where it is considered foolish to do something twice that only needs to be done once. As it applies to a wiki, it means that you shouldn't duplicate any information or keep multiple copies of documents organized in different ways.
 
   The violation of this principle can lead to many problems. These complications could include (but are certainly not limited to):
