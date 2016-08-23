@@ -18,6 +18,17 @@
 https://en.wikipedia.org/wiki/Separation_of_concerns
 
 
+//Onece and Only Once
+  The principle of "once and only once" originated in the world of programming, where it is considered foolish to do something twice that only needs to be done once. As it applies to a wiki, it means that you shouldn't duplicate any information or keep multiple copies of documents organized in different ways.
+
+  The violation of this principle can lead to many problems. These complications could include (but are certainly not limited to):
+
+  One of the versions will soon be out of date, since it can be very difficult to remember to update them all. Worse, some wiki editors may not even be aware that the copies exist, and therefore won't realize that they need to edit the copy if they have edited the original.
+  We will have more to overcome when we want to change the format of or reason for the documents' existence.
+  Responsibilities in our community become scattered, leading to documents that are difficult to understand.
+  It becomes immediately clear than none of these outcomes would be good for our wiki or our wiki community, therefore, we feel that the "once and only once" principle should be adhered to as closely as possible. This means that an individual   object or being should have only one page pertaining to it. Users should check for a page's existence before creating a   new one.
+
+
 //SOLID（OO）原则
   在学习和使用OO设计的时候，我们应该明白：OO的出现使得软件工程师们能够用更接近真实世界的方法描述软件系统。然而，软件毕竟是建立在抽象层次上的东西，再怎么接近真实，也不能替代真实或被真实替代。 
   OO设计的五大原则之间并不是相互孤立的。彼此间存在着一定关联，一个可以是另一个原则的加强或是基础。违反其中的某一个，可能同时违反了其余的原则。因此应该把这些原则融会贯通，牢记在心！ 
