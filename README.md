@@ -4,14 +4,21 @@
   learning basic knowledge of Swift
   http://www.runoob.com/swift/swift-operators.html
   A html which is useable for swift newcomer
+  
+  
 //Blog
   http://draveness.me/author/draveness/page/2/  高级工程师必看的源码解析
+  
+  
 //Separation of mechanism and policy
   https://en.wikipedia.org/wiki/Separation_of_mechanism_and_policy
+  
+  
 //Separation of concern
 https://en.wikipedia.org/wiki/Separation_of_concerns
-//SOLID原则
-OO的五大原则
+
+
+//SOLID（OO）原则
   在学习和使用OO设计的时候，我们应该明白：OO的出现使得软件工程师们能够用更接近真实世界的方法描述软件系统。然而，软件毕竟是建立在抽象层次上的东西，再怎么接近真实，也不能替代真实或被真实替代。 
   OO设计的五大原则之间并不是相互孤立的。彼此间存在着一定关联，一个可以是另一个原则的加强或是基础。违反其中的某一个，可能同时违反了其余的原则。因此应该把这些原则融会贯通，牢记在心！ 
   OO的五大原则是指SRP、OCP、LSP、DIP、ISP。 
